@@ -4,3 +4,5 @@ Curso de Git e GitHub que estou preparando para a Codi Academy, empresa na qual 
 Teste.
 
 Teste.
+
+Atualizando o readme para as branches
